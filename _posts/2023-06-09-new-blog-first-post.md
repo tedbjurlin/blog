@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Blog, Woo-Hoo!
+author: Ted Bjurlin
 date: 2023-06-09 11:48
 tags: [blog]
 summary: I made this blog, but not without some complications.
